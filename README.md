@@ -1,2 +1,1 @@
-# -eric-01001000-
-GitHub profile
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-01001000&show_icons=true&theme=material-palenight&border_radius=4&count_private=true&hide=stars,contribs,issues)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-01001000&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
