@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-01001000&show_icons=true&theme=material-palenight&border_radius=4&count_private=true&hide=stars,contribs,issues)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-01001000&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/eric-01001000/GitStats/actions_branch/generated_images/overview.svg)
+![](https://raw.githubusercontent.com/eric-01001000/GitStats/actions_branch/generated_images/languages.svg)
